@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/net.rim.ejde.BlackBerryVMInstallType/BlackBerry JRE 6.0.0"/>
+	<classpathentry kind="lib" path="lib/net_rim_bb_qm_platform.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/BBM_Interface"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
