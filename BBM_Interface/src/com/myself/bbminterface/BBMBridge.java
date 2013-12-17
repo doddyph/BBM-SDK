@@ -9,8 +9,9 @@ public abstract class BBMBridge {
     //====================================================================================
     //  static fields and methods
 
-    // This is a key for RuntimeStore for the implementation instance of BBMBridge. 
-    private static final long BBM_BRIDGE_GUID = 0xc019c33e785448f6L;// com.sec.chaton.bbminterface.BBMBridge
+    // This is a key for RuntimeStore for the implementation instance of BBMBridge.
+	// com.myself.bbminterface.BBMBridge
+    private static final long BBM_BRIDGE_GUID = 0x3ace2d400e4cb9daL;
     
     /**
      * Saves the instance of the {@link BBMBridge} implementation in the RuntimeStore,
